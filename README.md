@@ -117,6 +117,8 @@
 
   * [KDE Connect](https://albertvaka.wordpress.com/) - Integrate Android with the KDE Plasma Desktop. ([F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/), [Source Code](https://cgit.kde.org/kdeconnect-android.git/))
 
+  *  [Kore](https://kodi.tv/) - Official Remote for Kodi ([F-Droid](https://f-droid.org/en/packages/org.xbmc.kore/), [Source Code](https://github.com/xbmc/Kore))
+
 
 
 ## Customization
@@ -193,6 +195,8 @@
 
 ## Media
 
+  * Episodie - Discover and track TV show time ([F-Droid](https://f-droid.org/packages/pl.hypeapp.episodie/), [Source Code](https://github.com/hypeapps/episodie))
+
   * [DroidShows](https://ltguillaume.github.io/DroidShows/) - Browse and track TV shows. ([F-Droid](https://f-droid.org/packages/nl.asymmetrics.droidshows/), [Source Code](https://github.com/ltGuillaume/DroidShows))
 
   * Metronome - Metronome app. ([F-Droid](https://f-droid.org/packages/tk.radioactivemineral.metronome/), [Source Code](https://github.com/waelk10/Metronome))
@@ -232,6 +236,8 @@
 
 
 ### Games
+
+  * JustChess -  Chess for one or two players  ([F-Droid](https://f-droid.org/packages/com.alaskalinuxuser.justchess/), [Source Code](https://github.com/alaskalinuxuser/app_JustChess))
 
   * Anuto TD - Tower defense game. ([F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/), [Source Code](https://github.com/reloZid/android-anuto))
 
@@ -289,6 +295,7 @@
 
   * [Net Monitor](https://secuso.org/pfa) - Shows what apps currently have an internet connection. ([F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor/), [Source Code](https://github.com/SecUSo/privacy-friendly-netmonitor))
 
+  * WiFiKeyShare Share Wi-Fi passwords with QR codes and NFC tags  ([F-Droid] (https://f-droid.org/packages/be.brunoparmentier.wifikeyshare/), [Source Code](https://github.com/bparmentier/WiFiKeyShare))
 
 
 ### Torrenting
@@ -503,9 +510,9 @@
 
   * Fennec F-Droid - Rebranded version of Firefox for F-Droid. ([F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/), [Source Code](http://hg.mozilla.org/))
 
-  * Firefox Klar - Private Mode browser, clear browser data with one tap. ([F-Droid](https://f-droid.org/packages/org.mozilla.klar/), [Source Code](https://github.com/mozilla-mobile/focus-android))
-
   * [GApps Browser](https://plus.google.com/u/0/118226948467140990198/posts/YVNFmADvAs4) - Provides WebView for Google Websites. ([F-Droid](https://f-droid.org/packages/com.tobykurien.google_news/), [Source Code](https://github.com/tobykurien/GoogleNews))
+
+  * Privacy Browser - A web browser that respects your privacy ([F-Droid](https://f-droid.org/packages/com.stoutner.privacybrowser.standard/), [Source Code](https://git.stoutner.com/?p=PrivacyBrowser.git))
 
   * [Wikipedia](https://www.mediawiki.org/wiki/Wikimedia_Apps) - Official Wikipedia Android app. ([F-Droid](https://f-droid.org/packages/org.wikipedia/), [Source Code](https://github.com/wikimedia/apps-android-wikipedia))
 
