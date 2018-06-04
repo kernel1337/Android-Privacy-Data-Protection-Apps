@@ -1,4 +1,4 @@
-# Collection of Free and Open Source Android apps
+# The ultimative collection of Free and Open Source Android apps
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
@@ -16,7 +16,7 @@
   - [Customization](#customization)
     - [Icon Packs](#icon-packs)
     - [Launcher](#launcher)
-  - [Files](#files)
+  - [File Management](#file-management)
       - [Backups](#backups)
       - [File Manager](#file-manager)
       - [File Sync](#file-sync)
@@ -105,7 +105,7 @@
 
   * [Signal](https://signal.org/) - End-to-End encrypted messenger with SMS fallback, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
 
-  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server isn't FOSS.
+  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server itself isn't FOSS.
 
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
@@ -131,15 +131,15 @@
 
 ### Launcher
 
-  * KISS Launcher - A _very_ minimalistic launcher. ([F-Droid](https://f-droid.org/packages/fr.neamar.kiss/), [Source Code](https://github.com/Neamar/KISS))
+  * KISS Launcher - A minimalistic app launcher. ([F-Droid](https://f-droid.org/packages/fr.neamar.kiss/), [Source Code](https://github.com/Neamar/KISS))
 
-  * Open Launcher - Community driven launcher. ([F-Droid](https://f-droid.org/packages/com.benny.openlauncher/), [Source Code](https://github.com/OpenLauncherTeam/openlauncher))
+  * Open Launcher - Community driven app launcher. ([F-Droid](https://f-droid.org/packages/com.benny.openlauncher/), [Source Code](https://github.com/OpenLauncherTeam/openlauncher))
 
-  * T-UI - Text based terminal-like launcher. ([F-Droid](https://f-droid.org/packages/ohi.andre.consolelauncher/), [Source Code](https://github.com/Andre1299/TUI-ConsoleLauncher))
+  * T-UI - Text based terminal-like app launcher. ([F-Droid](https://f-droid.org/packages/ohi.andre.consolelauncher/), [Source Code](https://github.com/Andre1299/TUI-ConsoleLauncher))
 
 
 
-## Files
+## File Management
 
 
 
@@ -259,7 +259,7 @@
 
 ### YouTube
 
-  * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe)) :warning: Connects to Google (YouTube).
+  * [NewPipe (Lightweight YouTube)](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe)) :warning: Connects to Google (YouTube).
 
   * [SkyTube](http://skytube-app.com/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/), [Source Code](https://github.com/ram-on/SkyTube)) :warning: Connects to Google (YouTube).
 
@@ -299,7 +299,7 @@
 
 ### VPN
 
-  * [OpenVPN](http://ics-openvpn.blinkt.de/) - OpenVPN client for android. ([F-Droid](https://f-droid.org/packages/de.blinkt.openvpn/), [Source Code](https://github.com/schwabe/ics-openvpn))
+  * [Arne Schwabe's OpenVPN Client](http://ics-openvpn.blinkt.de/) - OpenVPN client for android. ([F-Droid](https://f-droid.org/packages/de.blinkt.openvpn/), [Source Code](https://github.com/schwabe/ics-openvpn))
 
 
 
@@ -334,6 +334,9 @@
 
   * [Offline Calendar](https://www.schuermann.eu/android/) - Calendar app, completely offline. ([F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar/), [Source Code](https://github.com/PrivacyApps/offline-calendar))
 
+  * Calendar Widget - ([F-Droid](https://f-droid.org/en/packages/com.plusonelabs.calendar/), [Source Code](https://github.com/plusonelabs/calendar-widget))
+
+  * [Calendar](https://simplemobiletools.github.io/) - A simple calendar with optional CalDAV synchronization. ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar/), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 
 #### Online
@@ -444,9 +447,9 @@
 
 ### Reddit
 
-  * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
+  * RedReader - Easy-to-use Reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
 
-  * Slide - Advanced app for reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))
+  * Slide - Advanced app for Reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))
 
 
 
