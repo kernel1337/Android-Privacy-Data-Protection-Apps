@@ -343,7 +343,7 @@
 
   * Calendar Widget - ([F-Droid](https://f-droid.org/en/packages/com.plusonelabs.calendar/), [Source Code](https://github.com/plusonelabs/calendar-widget))
 
-  * [Calendar](https://simplemobiletools.com/) - A simple calendar with optional CalDAV synchronization. ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
+  * [Simple Calendar](https://simplemobiletools.com/) - A simple calendar with optional CalDAV synchronization. ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 
 #### Online
