@@ -159,7 +159,7 @@
 
   * [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
 
-  * [Simple File Manager](https://simplemobiletools.github.io/) - A simple file manager for browsing and editing files and directories. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager), [Source Code](https://github.com/SimpleMobileTools/Simple-File-Manager))
+  * [Simple File Manager](https://simplemobiletools.com/) - A simple file manager for browsing and editing files and directories. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro), [Source Code](https://github.com/SimpleMobileTools/Simple-File-Manager))
 
 
 
@@ -205,7 +205,7 @@
 
 ### Audio / Videoplayer
 
-  * [Simple Music Player](https://simplemobiletools.github.io/) - A clean music player with a customizable widget. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer), [Source Code](https://github.com/SimpleMobileTools/Simple-Music-Player))
+  * [Simple Music Player](https://simplemobiletools.com/) - A clean music player with a customizable widget. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer), [Source Code](https://github.com/SimpleMobileTools/Simple-Music-Player))
 
   * [Vanilla Music](http://vanillamusic.io/) - Material Design music player, addons available. ([F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/), [Source Code](https://github.com/vanilla-music/vanilla))
 
@@ -253,7 +253,7 @@
 
   * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([F-Droid](https://f-droid.org/en/packages/us.koller.cameraroll/), [APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
 
-  * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
+  * [Simple Gallery](https://simplemobiletools.com/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
 
 
 
@@ -343,14 +343,12 @@
 
   * Calendar Widget - ([F-Droid](https://f-droid.org/en/packages/com.plusonelabs.calendar/), [Source Code](https://github.com/plusonelabs/calendar-widget))
 
-  * [Calendar](https://simplemobiletools.github.io/) - A simple calendar with optional CalDAV synchronization. ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar/), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
+  * [Calendar](https://simplemobiletools.com/) - A simple calendar with optional CalDAV synchronization. ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 
 #### Online
 
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
-
-  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with optional CalDAV sync. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 
 
@@ -372,7 +370,7 @@
 
   * SealNote - Notepad that provides encryption. ([F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote/), [Source Code](https://github.com/vishesh/sealnote))
 
-  * [Simple Notes](https://simplemobiletools.github.io/) - A simple textfield for adding quick notes without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.notes), [Source Code](https://github.com/SimpleMobileTools/Simple-Notes))
+  * [Simple Notes](https://simplemobiletools.com/) - A simple textfield for adding quick notes without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.notes.pro), [Source Code](https://github.com/SimpleMobileTools/Simple-Notes))
 
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
 
