@@ -484,6 +484,7 @@
 
   * Hacker's Keyboard - A customizable keyboard with full layouts. ([F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard/), [Source Code](https://github.com/klausw/hackerskeyboard))
 
+  * [Setup Simple Keyboard](https://github.com/rkkr/simple-keyboard) - Simple Open Source Keyboard. ([F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/), [Source Code](https://github.com/rkkr/simple-keyboard))
 
 
 ### Translation
