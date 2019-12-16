@@ -490,6 +490,12 @@
 ### Translation
 
   * QuickDic - Offline translation dictionary. ([F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/), [Source Code](https://github.com/rdoeffinger/Dictionary))
+  
+  
+  
+### Tracking
+
+* Tracker Control - TrackerControl aims to inform, empower, and educate users with regards to tracking in apps, that is, collection of data about user behaviour. ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.missioncontrol), [Source Code](https://github.com/OxfordHCC/tracker-control-android))
 
 
 
