@@ -323,6 +323,8 @@
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
 
   * spaRSS - Feed reader. ([F-Droid](https://f-droid.org/packages/net.etuldan.sparss.floss/), [Source Code](https://github.com/Etuldan/spaRSS))
+  
+* NewsBlur - Newsblur is software that runs on a server and collects RSS/Atom and provides a alternative to Feedly. ([F-Droid](https://f-droid.org/en/packages/com.newsblur/)), [Source Code](https://github.com/samuelclay/NewsBlur)
 
 
 ### Read it later
