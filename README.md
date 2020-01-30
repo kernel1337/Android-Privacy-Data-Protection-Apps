@@ -326,6 +326,8 @@
   
 * NewsBlur - Newsblur is software that runs on a server and collects RSS/Atom and provides a alternative to Feedly. ([F-Droid](https://f-droid.org/en/packages/com.newsblur/)), [Source Code](https://github.com/samuelclay/NewsBlur)
 
+* Equipe RSS - RSS reader for the french newspaper *lequipe.fr*. ([F-Droid](https://f-droid.org/en/packages/com.damiengo.websiterss/), [Source Code](https://github.com/damiengo/WebsiteRSS) 
+
 
 ### Read it later
 
