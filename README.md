@@ -64,13 +64,16 @@
   - [Credits](#credits)
 ---
 
-## App Stores
+## App Stores or alternatives
 
   * [F-Droid](https://f-droid.org/) - App store that only includes FOSS apps. Custom repositories can be added.
 
-  * Yalp Store - Downloads .apk files directly from Google Play. ([F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/), [Source Code](https://github.com/yeriomin/YalpStore))
-
-
+  * [Yalp Store](https://f-droid.org/de/packages/com.github.yeriomin.yalpstore/) - Downloads .apk files directly from Google Play. ([F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/), [Source Code](https://github.com/yeriomin/YalpStore))
+  
+  * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store.
+  
+  * [Raccoon](https://raccoon.onyxbits.de/) - Another APK downloader for Google Play Store. It requires Java but works for all operating systems, the [source code can be found over here](https://github.com/onyxbits/raccoon4).
+        
 
 ## Communication
 
