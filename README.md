@@ -157,7 +157,7 @@
 
 ### File Manager
 
-  * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
+  * [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
 
   * [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
 
@@ -256,12 +256,21 @@
   * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([F-Droid](https://f-droid.org/en/packages/us.koller.cameraroll/), [APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
 
   * [Simple Gallery](https://simplemobiletools.com/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
+  
+  
+#### Photo Editing
+
+  * [Photo Editor](https://www.iudesk.com/) - A small but powerful photo editing application. ([F-Droid](https://f-droid.org/packages/net.minetest.minetest/)
+
+
+  * [Phimp.me](https://phimp.me/) - Android image editor app that aims to replace proprietary
+photographing and image apps on smart phones. ([F-Droid](https://gitlab.com/fdroid/rfp/issues/655), [Source Code](https://github.com/fossasia/phimpme-android)
 
 
 
 ### Podcasts
 
-   * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
+   * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([DL via Homepage](https://www.iudesk.com/photoeditor/download/), [Source Code](https://github.com/antennapod/AntennaPod))
 
 
 
