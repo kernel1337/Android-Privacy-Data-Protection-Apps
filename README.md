@@ -407,6 +407,8 @@
   * [AdAway](https://adaway.org/) - Simple ad blocker using the hosts file (needs root access). ([F-Droid](https://f-droid.org/packages/org.adaway/), [Source Code](https://github.com/AdAway/AdAway))
 
   * DNS66 - DNS66 allows blocking host names via DNS. ([F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/), [Source Code](https://github.com/julian-klode/dns66))
+  
+ * InviZible - Android application for Internet privacy and security, i supports DNSCrypt, I2P and Tor. (F-Droid is planned), [Source Code](https://github.com/Gedsh/InviZible).
 
   * [Wi-Fi Privacy Police](http://www.brambonne.com/) - Prevents sending of known Wi-Fi networks. ([F-Droid](https://f-droid.org/packages/be.uhasselt.privacypolice/), [Source Code](https://github.com/BramBonne/privacypolice))
 
