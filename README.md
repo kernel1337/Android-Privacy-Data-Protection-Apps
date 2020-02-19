@@ -3,7 +3,9 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
+[![Tip Me via PayPal](https://img.shields.io/badge/Telegram-Join%20CK's%20Tech%20News%20Telegram-blue)](https://t.me/CKsTechNews)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/nvinside)
+
 
 
   - [App Stores](#app-stores)
@@ -94,6 +96,8 @@
 ### E-Mail
 
   * [K-9 Mail](https://k9mail.github.io/) - Advanced E-Mail Client. Supports PGP with OpenKeychain. ([F-Droid](https://f-droid.org/packages/com.fsck.k9/), [Source Code](https://github.com/k9mail/k-9))
+  
+  * [FairMail](https://email.faircode.eu/pro/) - FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!. ([F-Droid](https://f-droid.org/en/packages/eu.faircode.email/), [Source Code](https://github.com/M66B/FairEmail))
 
 
 
@@ -544,3 +548,9 @@ photographing and image apps on smart phones. ([F-Droid](https://gitlab.com/fdro
 
 * InviZible Pro - Rebranded version of Firefox for F-Droid. ([Website](https://invizible.net/ru), [Source Code](https://github.com/Gedsh/InviZible))
 
+
+# Proxy
+
+## Nitter / Invidious
+
+  * [NitterizeMe](https://framagit.org/tom79/nitterizeme#nitterizeme) - Official Wikipedia Android app. ([F-Droid](https://f-droid.org/packages/app.fedilab.nitterizeme/), [Source Code](https://framagit.org/tom79/nitterizeme))
