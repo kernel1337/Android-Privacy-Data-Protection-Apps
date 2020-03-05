@@ -103,7 +103,7 @@
 
 ### Instant Messaging
 
-  * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
+  * [Conversations (XMPP)](https://conversations.im/) - XMPP client with built-in OMEMO and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
 
   * [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
 
@@ -111,10 +111,11 @@
 
   * [Signal](https://signal.org/) - End-to-End encrypted messenger with SMS fallback, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
 
-  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server itself isn't FOSS.
+  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server itself isn't FOSS!
 
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
+' [Session](https://getsession.org/download/) End-to-End encrypted messenger based on LOKI, supports Onion routing and does not rely on a phone number (it uses Session-ID). ([non-free APK](https://getsession.org/faq/), [Source Code](https://github.com/Loki-project))
 
 
 ## Connectivity
