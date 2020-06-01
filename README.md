@@ -3,6 +3,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?label=Follow%20CK%27s%20Tech%20News&style=social)
 [![Discord](https://img.shields.io/badge/Discord-Join%20CKs%20Technology%20Discord%20Server-orange)](https://discord.me/chef-koch)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20CK's%20Tech%20News%20Telegram-blue)](https://t.me/CKsTechNews)
+[![license](https://img.shields.io/github/license/CHEF-KOCH/Android-Privacy-Data-Protection-Apps.svg)](https://github.com/CHEF-KOCH/Android-Privacy-Data-Protection-Apps/blob/master/license.txt)
+[![repo size](https://img.shields.io/github/repo-size/CHEF-KOCH/Android-Privacy-Data-Protection-Apps.svg)](https://github.com/CHEF-KOCH/Android-Privacy-Data-Protection-Apps)
 
 
 * [The ultimative collection of Free and Open Source Android apps](#the-ultimative-collection-of-free-and-open-source-android-apps)
@@ -561,6 +563,17 @@ photographing and image apps on smart phones. ([F-Droid](https://gitlab.com/fdro
 * Privacy Browser - A web browser that respects your privacy ([F-Droid](https://f-droid.org/packages/com.stoutner.privacybrowser.standard/), [Source Code](https://git.stoutner.com/?p=PrivacyBrowser.git))
 
 * [Wikipedia](https://www.mediawiki.org/wiki/Wikimedia_Apps) - Official Wikipedia Android app. ([F-Droid](https://f-droid.org/packages/org.wikipedia/), [Source Code](https://github.com/wikimedia/apps-android-wikipedia))
+
+
+
+## Browser
+
+* [ungoogled-chromium-android](https://github.com/wchen342/ungoogled-chromium-android) - Android build for ungoogled-chromium ([F-Droid Repo](https://www.droidware.info/fdroid/repo?fingerprint=2144449AB1DD270EC31B6087409B5D0EA39A75A9F290DA62AC1B238A0EAAF851), [Source Code](https://github.com/wchen342/ungoogled-chromium-android))
+
+* [Kiwi Browser](https://kiwibrowser.com/) - Kiwi Browser (supports Extensions) ([F-Droid](https://github.com/kiwibrowser/src/issues/6), [Source Code](https://github.com/kiwibrowser)
+
+* [Bromite Browser](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser ([F-Droid](https://www.bromite.org/fdroid), [Source Code](https://github.com/bromite/bromite)
+
 
 
 
